@@ -10,9 +10,9 @@ from datetime import datetime, date
 
 
 msgs = {}
-msgs["1"] = "Lo saludamos desde Noretel sus servidores y atentamente le recordamos realizar el pago de su servicio"
-msgs["2"] = "Se le recuerda la fecha de vencimiento del servicio ya transcurrió"
-msgs["3"] = "Por favor cancele su servicio para evitar el corte y el costo de reconexión"
+msgs["1"] = "Lo saludamos desde Noretel sus servidores y atentamente le recordamos realizar el pago de su servicio."
+msgs["2"] = "Lo saludamos desde Noretel. Se le recuerda el pago de servicio de internet ya que la fecha de vencimiento del servicio ya transcurrió."
+msgs["3"] = "Enviamos un amable saludo. Por favor cancele su servicio para evitar el corte y el costo de reconexión."
 
 waittime = 15
 
@@ -33,7 +33,7 @@ def main(tipo):
 
         print("Current Time =", now)
         print("Cliente", item["id"], "telefono", item["telefono"], "mensaje", msgs[tipo])
-        pywhatkit.sendwhatmsg(f"+{item['telefono']}", f"Estimad@ {item['nombre']}, {msgs[tipo]}. Su recibo vencido del mes de {mes.get_sp_previous_month(today)} tiene {item['dias_vencido']} dias vencido."  , hora, minuto, waittime, True, 8)
+        pywhatkit.sendwhatmsg(f"+{item['telefono']}", f"Estimad@ {item['nombre']}, {msgs[tipo]}. Su recibo vencido del mes de {mes.get_sp_previous_month(today)} tiene {item['dias_vencido']} dias vencido. Gracias"  , hora, minuto, waittime, True, 8)
 
 
 if __name__ == '__main__':
