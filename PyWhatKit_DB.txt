@@ -183,3 +183,53 @@ Time: 16:10
 Phone Number: +51952461492
 Message: Estimad@ Jaime Vaca Esquivel, Lo saludamos desde Noretel sus servidores y atentamente le recuerdamos realizar el pago de su servicio. Su recibo vencido del mes de Noviembre tiene 2 dias vencido.
 --------------------
+Date: 7/12/2021
+Time: 10:43
+Phone Number: +51930985891
+Message: Estimad@ Vidal Barrientos Ttito, Se le recuerda la fecha de vencimiento del servicio ya transcurrió. Su recibo vencido del mes de Noviembre tiene 7 dias vencido.
+--------------------
+Date: 7/12/2021
+Time: 10:44
+Phone Number: +51954683878
+Message: Estimad@ Edwin Mamani Quispe, Se le recuerda la fecha de vencimiento del servicio ya transcurrió. Su recibo vencido del mes de Noviembre tiene 7 dias vencido.
+--------------------
+Date: 7/12/2021
+Time: 10:47
+Phone Number: +51930985891
+Message: Estimad@ Vidal Barrientos Ttito, Se le recuerda la fecha de vencimiento del servicio ya transcurrió. Su recibo vencido del mes de Noviembre tiene 7 dias vencido.
+--------------------
+Date: 7/12/2021
+Time: 10:48
+Phone Number: +51954683878
+Message: Estimad@ Edwin Mamani Quispe, Se le recuerda la fecha de vencimiento del servicio ya transcurrió. Su recibo vencido del mes de Noviembre tiene 7 dias vencido.
+--------------------
+Date: 7/12/2021
+Time: 10:49
+Phone Number: +
+Message: Estimad@ Colegio Isaias Bowman, Se le recuerda la fecha de vencimiento del servicio ya transcurrió. Su recibo vencido del mes de Noviembre tiene dias vencido.
+--------------------
+Date: 7/12/2021
+Time: 10:50
+Phone Number: +
+Message: Estimad@ Vilma Fernandez, Se le recuerda la fecha de vencimiento del servicio ya transcurrió. Su recibo vencido del mes de Noviembre tiene dias vencido.
+--------------------
+Date: 7/12/2021
+Time: 10:51
+Phone Number: +
+Message: Estimad@ , Se le recuerda la fecha de vencimiento del servicio ya transcurrió. Su recibo vencido del mes de Noviembre tiene dias vencido.
+--------------------
+Date: 7/12/2021
+Time: 10:52
+Phone Number: +
+Message: Estimad@ , Se le recuerda la fecha de vencimiento del servicio ya transcurrió. Su recibo vencido del mes de Noviembre tiene dias vencido.
+--------------------
+Date: 7/12/2021
+Time: 10:53
+Phone Number: +
+Message: Estimad@ , Se le recuerda la fecha de vencimiento del servicio ya transcurrió. Su recibo vencido del mes de Noviembre tiene dias vencido.
+--------------------
+Date: 7/12/2021
+Time: 10:54
+Phone Number: +
+Message: Estimad@ , Se le recuerda la fecha de vencimiento del servicio ya transcurrió. Su recibo vencido del mes de Noviembre tiene dias vencido.
+--------------------
