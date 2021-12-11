@@ -38,13 +38,13 @@ def main(tipo):
             saludo[4] = "Estimado"
             
             emoticon[0] = "♫"
-            emoticon[1] = "💘"
-            emoticon[2] = "😙"
+            emoticon[1] = "⚛"
+            emoticon[2] = ":P"
             emoticon[3] = ":cupid"   
-            emoticon[4] = "💥"   
-            emoticon[5] = "⛽"
-            emoticon[6] = "🎸"   
-            emoticon[7] = "✈"   
+            emoticon[4] = ":explode"   
+            emoticon[5] = ":fuel pump"
+            emoticon[6] = ":jet"   
+            emoticon[7] = ":minibus"   
       
             
             

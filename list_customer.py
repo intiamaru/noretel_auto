@@ -11,23 +11,19 @@ def get_clientes():
     # Find a workbook by name and open the first sheet
     # Make sure you use the right name here.
     spreadsheet = client.open("shared_lists")
-    sheet = spreadsheet.get_worksheet(2)
+    sheet = spreadsheet.get_worksheet(3)
 
     # Extract and print all of the values
     clientes = sheet.get_all_records()
-    #print(list_of_videos)
-    nrows = len(clientes)
+    
+    print("Listado de clientes")
+    print(len(clientes))
+    #for c in clientes:
+    #    print(c["nombre"])
     return clientes
 
-# def next_available_row(worksheet):
-#     str_list = list(filter(None, worksheet.col_values(1)))
-#     return len(str_list)+1
-#
-# index = next_available_row(sheet)
-# row = ["Row", index, "inserted"]
-# sheet.insert_row(row, index)
 
 if __name__ == "__main__":
     clientes = get_clientes()
     for c in clientes:
-        print(c["fecha"])
+        print(c["nombre"], c["estado_ultimo_pago"])
